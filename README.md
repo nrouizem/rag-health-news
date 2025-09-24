@@ -58,7 +58,7 @@ rag-health-news/
 ├─ notebooks/
 │  └─ 01_langchain_rag_demo.ipynb      # demo walkthrough
 ├─ environment.yml                     # reproducible conda env
-├─ .env.example                        # example .env (just API key
+├─ .env.example                        # example .env (just API key)
 ├─ .gitignore
 └─ README.md
 ```
