@@ -1,4 +1,4 @@
 .env
 data/
 notebooks/data_processing.ipynb
-faiss_index
+faiss_index/
